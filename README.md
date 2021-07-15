@@ -34,3 +34,6 @@ blink_v2_micro_speech_success.tar.gz
 * Raspberry Pi Pico  
 pico-microphone_v3.rar  
 https://github.com/sandeepmistry/pico-microphone  
+
+* PC, HTML5  
+speech_v1.rar  
