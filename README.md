@@ -44,5 +44,6 @@ https://github.com/sandeepmistry/pico-microphone
 speech_v1.rar  
 
 * Raspberry Pi 3B, Python  
+https://github.com/weimingtom/asr_rpi3b_hello/blob/master/python/baidu_STT/Smart_fan.py  
 https://github.com/weimingtom/wmt_speech_study  
 https://github.com/SeeedDocument/MIC_HATv1.0_for_raspberrypi/blob/master/src/baidu_STT/Smart_fan.py  
