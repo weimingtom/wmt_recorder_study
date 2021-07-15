@@ -31,6 +31,12 @@ https://github.com/xiayouli0122/SoundRecorder
 * VS1053, XFS5152CE, VS1003, WM8960  
 https://github.com/weimingtom/wmt_speech_study  
 
+* Linkit 7688 (MT7688), arm linux    
+https://docs.labs.mediatek.com/resource/linkit-smart-7688/zh_cn/tutorials/audio-playback-and-recording  
+
+* BPI-D1 (Lamobo D1), arm linux  
+https://github.com/Lamobo/Lamobo-D1/blob/master/src/samples/record_audio/AkAudioRecorder.c  
+
 ## Work  
 * ESP32, Arduino IDE  
 micro_speech_v7_tf200_single_file.rar  
