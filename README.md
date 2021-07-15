@@ -48,8 +48,12 @@ https://github.com/smlee00/STM32-Keyword-Spotting-with-Edge-Impulse
 * 新唐M480系列, M487JIDAE, NuMaker-PFM-M487开发板  
 https://github.com/OpenNuvoton/M480BSP/blob/master/SampleCode/StdDriver/SPII2S_PDMA_PlayRecord/main.c  
 
-* RT1052  
-(TODO)  
+* EasyARM-RT1052, 致远ZLG  
+EasyARM-RT1052-sjsc.rar  
+深入浅出Cortex-M7-i.MX RT1050 V1.01 .pdf  
+
+* MIMXRT1064-EVK  
+https://github.com/KeilChris/TensorFlow_MIMXRT1064-EVK_Microspeech/blob/master/mono_mic.c  
 
 * FRDM-K66F  
 SDK_2_9_0_FRDM-K66F.zip  
