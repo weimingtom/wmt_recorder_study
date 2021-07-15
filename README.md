@@ -73,6 +73,8 @@ http://www.openedv.com/docs/modules/other/VS1053.html
 * Recording Stereo Audio on a Raspberry Pi, inmp441    
 https://makersportal.com/blog/recording-stereo-audio-on-a-raspberry-pi  
 https://github.com/makerportal/rpi_i2s  
+https://github.com/adafruit/Raspberry-Pi-Installer-Scripts/blob/main/i2smic.py  
+https://github.com/adafruit/Raspberry-Pi-Installer-Scripts/blob/main/i2s_mic_module/snd-i2smic-rpi.c  
 
 ## Work  
 * ESP32, Arduino IDE  
