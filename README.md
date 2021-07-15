@@ -70,6 +70,10 @@ http://doc.embedfire.com/products/link/zh/latest/module/audio/mp3_vs1053.html
 ATK-VS1053 MP3模块用户手册_V1.0.pdf  
 http://www.openedv.com/docs/modules/other/VS1053.html  
 
+* Recording Stereo Audio on a Raspberry Pi, inmp441    
+https://makersportal.com/blog/recording-stereo-audio-on-a-raspberry-pi  
+https://github.com/makerportal/rpi_i2s  
+
 ## Work  
 * ESP32, Arduino IDE  
 micro_speech_v7_tf200_single_file.rar  
