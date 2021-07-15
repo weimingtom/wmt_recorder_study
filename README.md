@@ -78,7 +78,7 @@ https://github.com/adafruit/Raspberry-Pi-Installer-Scripts/blob/main/i2s_mic_mod
 https://learn.adafruit.com/adafruit-i2s-mems-microphone-breakout/raspberry-pi-wiring-test  
 https://github.com/opencardev/snd-i2s_rpi  
 
-* i.mx 280, gst-fsl, gstream    
+* i.mx 280, gst-fsl, libfslparser, libfslcodec, gstreamer, Linux media framework    
 L2.6.35_1.1.0_130130_MM_CODECS_BUNDLE.tar.gz  
 https://github.com/chenbd/gst-fsl-plugins  
 i.MX28 Linux Multimedia Codecs  
