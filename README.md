@@ -44,7 +44,7 @@ https://wiki.seeedstudio.com/cn/ReSpeaker_2_Mics_Pi_HAT/
 * stm32f446  
 https://github.com/smlee00/STM32-Keyword-Spotting-with-Edge-Impulse  
 
-* NuMaker PFM-M487, 新唐的M487开发板  
+* 新唐M480系列, M487JIDAE, NuMaker-PFM-M487开发板  
 https://github.com/OpenNuvoton/M480BSP/blob/master/SampleCode/StdDriver/SPII2S_PDMA_PlayRecord/main.c  
 
 * RT1052  
