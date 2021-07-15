@@ -6,7 +6,7 @@ My MCU / Embedded Linux recorder study
 (TODO) buildroot recorder  
 
 * stm32h743vi  
-test_ac6_stm32h743vi_v2_dma_bug.rar
+test_ac6_stm32h743vi_v2_dma_bug.rar  
 https://community.st.com/s/article/FAQ-DMA-is-not-working-on-STM32H7-devices  
 
 * stm32f411re  
