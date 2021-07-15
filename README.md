@@ -41,6 +41,12 @@ https://github.com/Lamobo/Lamobo-D1/blob/master/src/samples/record_audio/AkAudio
 https://wiki.seeedstudio.com/ReSpeaker_2_Mics_Pi_HAT_Raspberry/  
 https://wiki.seeedstudio.com/cn/ReSpeaker_2_Mics_Pi_HAT/  
 
+* stm32f446  
+https://github.com/smlee00/STM32-Keyword-Spotting-with-Edge-Impulse  
+
+* NuMaker PFM-M487, 新唐的M487开发板  
+https://github.com/OpenNuvoton/M480BSP/blob/master/SampleCode/StdDriver/SPII2S_PDMA_PlayRecord/main.c  
+
 ## Work  
 * ESP32, Arduino IDE  
 micro_speech_v7_tf200_single_file.rar  
