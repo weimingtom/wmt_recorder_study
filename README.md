@@ -57,6 +57,8 @@ https://github.com/sandeepmistry/pico-microphone
 
 * PC, HTML5  
 speech_v1.rar  
+https://github.com/MimusTriurus/WebExperiments  
+https://github.com/shawkatq/voice-commands-demo  
 
 * Raspberry Pi 3B, Python  
 https://github.com/weimingtom/asr_rpi3b_hello/blob/master/python/baidu_STT/Smart_fan.py  
