@@ -107,3 +107,10 @@ https://github.com/shawkatq/voice-commands-demo
 https://github.com/weimingtom/asr_rpi3b_hello/blob/master/python/baidu_STT/Smart_fan.py  
 https://github.com/weimingtom/wmt_speech_study  
 https://github.com/SeeedDocument/MIC_HATv1.0_for_raspberrypi/blob/master/src/baidu_STT/Smart_fan.py  
+
+## Books  
+* 嵌入式软件调试技术  
+4.8 实例：音频采集与回放程序的调试  
+OSS (Open Sound System) and ALSA  
+SndKit  
+
