@@ -28,6 +28,9 @@ micro_speech_vv14_success.rar
 weimingtom-xunfei-master.zip  
 https://github.com/xiayouli0122/SoundRecorder  
 
+* VS1053, XFS5152CE, VS1003, WM8960  
+https://github.com/weimingtom/wmt_speech_study  
+
 ## Work  
 * ESP32, Arduino IDE  
 micro_speech_v7_tf200_single_file.rar  
