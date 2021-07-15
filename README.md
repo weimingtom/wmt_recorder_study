@@ -1,5 +1,5 @@
 # wmt_recorder_study
-My MCU / Embedded Linux recorder study
+My MCU / Embedded Linux audio recorder study  
 
 ### TODO  
 * raspberry pi zero   
