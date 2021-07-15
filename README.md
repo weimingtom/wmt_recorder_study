@@ -62,6 +62,14 @@ sai_edma_record_playback.zip
 * 芯灵思全志SIN-V3S, arm linux  
 SIN-V3s_Linux & QT用户手册_v2.0.pdf  
 
+* 野火vs1053, stm32f103  
+野火-VS1053用户手册.pdf  
+http://doc.embedfire.com/products/link/zh/latest/module/audio/mp3_vs1053.html  
+
+* 正点原子vs1053, stm32f103  
+ATK-VS1053 MP3模块用户手册_V1.0.pdf  
+http://www.openedv.com/docs/modules/other/VS1053.html  
+
 ## Work  
 * ESP32, Arduino IDE  
 micro_speech_v7_tf200_single_file.rar  
