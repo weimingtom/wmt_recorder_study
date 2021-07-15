@@ -55,6 +55,9 @@ https://github.com/OpenNuvoton/M480BSP/blob/master/SampleCode/StdDriver/SPII2S_P
 SDK_2_9_0_FRDM-K66F.zip  
 sai_edma_record_playback.zip  
 
+* 芯灵思全志SIN-V3S, arm linux  
+SIN-V3s_Linux & QT用户手册_v2.0.pdf  
+
 ## Work  
 * ESP32, Arduino IDE  
 micro_speech_v7_tf200_single_file.rar  
