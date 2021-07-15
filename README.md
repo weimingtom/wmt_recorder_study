@@ -37,6 +37,10 @@ https://docs.labs.mediatek.com/resource/linkit-smart-7688/zh_cn/tutorials/audio-
 * BPI-D1 (Lamobo D1), arm linux  
 https://github.com/Lamobo/Lamobo-D1/blob/master/src/samples/record_audio/AkAudioRecorder.c  
 
+* ReSpeaker 2 Mics Pi HAT  
+https://wiki.seeedstudio.com/ReSpeaker_2_Mics_Pi_HAT_Raspberry/  
+https://wiki.seeedstudio.com/cn/ReSpeaker_2_Mics_Pi_HAT/  
+
 ## Work  
 * ESP32, Arduino IDE  
 micro_speech_v7_tf200_single_file.rar  
