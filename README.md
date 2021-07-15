@@ -4,6 +4,7 @@ My MCU / Embedded Linux audio recorder study
 ### TODO  
 * raspberry pi zero   
 (TODO) buildroot recorder  
+(TODO) https://github.com/weimingtom/buildroot_rpi0_hello  
 
 * stm32h743vi  
 test_ac6_stm32h743vi_v2_dma_bug.rar  
