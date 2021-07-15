@@ -47,6 +47,13 @@ https://github.com/smlee00/STM32-Keyword-Spotting-with-Edge-Impulse
 * NuMaker PFM-M487, 新唐的M487开发板  
 https://github.com/OpenNuvoton/M480BSP/blob/master/SampleCode/StdDriver/SPII2S_PDMA_PlayRecord/main.c  
 
+* RT1052  
+(TODO)  
+
+* FRDM-K66F  
+SDK_2_9_0_FRDM-K66F.zip  
+sai_edma_record_playback.zip  
+
 ## Work  
 * ESP32, Arduino IDE  
 micro_speech_v7_tf200_single_file.rar  
