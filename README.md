@@ -23,6 +23,11 @@ Blink_esp32_rpd2017_v2_success.tar.gz
 * PC, Windows, VS2013    
 micro_speech_vv14_success.rar  
 
+* Android  
+(TODO, not yet published) https://gitee.com/weimingtom/xunfei  
+weimingtom-xunfei-master.zip  
+https://github.com/xiayouli0122/SoundRecorder  
+
 ## Work  
 * ESP32, Arduino IDE  
 micro_speech_v7_tf200_single_file.rar  
@@ -37,3 +42,7 @@ https://github.com/sandeepmistry/pico-microphone
 
 * PC, HTML5  
 speech_v1.rar  
+
+* Raspberry Pi 3B, Python  
+https://github.com/weimingtom/wmt_speech_study  
+https://github.com/SeeedDocument/MIC_HATv1.0_for_raspberrypi/blob/master/src/baidu_STT/Smart_fan.py  
