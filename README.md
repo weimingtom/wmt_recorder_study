@@ -35,6 +35,8 @@ https://github.com/weimingtom/wmt_speech_study
 * ESP32, Arduino IDE  
 micro_speech_v7_tf200_single_file.rar  
 micro_speech_v5_tf211_lib.zip  
+https://github.com/boochow/TFLite_Micro_MicroSpeech_M5Stack  
+https://github.com/tanakamasayuki/Arduino_TensorFlowLite_ESP32  
 
 * ESP32, esp-idf  
 blink_v2_micro_speech_success.tar.gz  
