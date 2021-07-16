@@ -124,4 +124,5 @@ search baidupan, GNU Linux Rapid Embedded Programming, Page 552.
 * voice_wakeup, sndkit  
 https://github.com/lishaman/minispeaker/blob/master/kernel-3.0.8/tools/voice_wakeup/test_app/sndkit.c  
 https://github.com/gylzbk/x1000_kernel_v1.7/tree/master/tools/voice_wakeup   
+https://github.com/EliasKotlyar/Xiaomi-Dafang-Software/tree/master/oss/tutorials/sndkit  
 
