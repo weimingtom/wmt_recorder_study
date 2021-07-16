@@ -134,6 +134,7 @@ https://github.com/EliasKotlyar/Xiaomi-Dafang-Software/blob/master/kernel/tools/
 https://www.cnblogs.com/mengfanrong/p/4224783.html  
 https://github.com/hx1056211238/ingenic-linux-kernel3.10.14-x1000-v6.0-20170428/blob/master/tools/dmic-test/dmic-test.c  
 https://github.com/Winddoing/CodeWheel/tree/master/embedded/drivertest/dmic-test  
+https://github.com/panddio/learn/blob/master/work/test/sndkit/sndkit.c  
 
 * opensound.com, sndkit  
 https://github.com/EliasKotlyar/Xiaomi-Dafang-Software/tree/master/oss/tutorials/sndkit  
