@@ -116,4 +116,8 @@ SndKit
 
 * GNU/Linux嵌入式快速编程  
 第15章 声音设备——SND  
+https://github.com/giometti/gnu_linux_rapid_embedded_programming/tree/master/chapter_15  
+Chapter 15 - Sound devices - SND  
+search baidupan, GNU Linux Rapid Embedded Programming, Page 552.  
+
 
