@@ -84,7 +84,7 @@ https://github.com/chenbd/gst-fsl-plugins
 i.MX28 Linux Multimedia Codecs  
 https://www.nxp.com/products/processors-and-microcontrollers/arm-processors/i-mx-applications-processors/i-mx28-processors/multimedia-applications-processors-low-power-high-performance-arm9-core:i.MX280  
 
-* MangoPi-R3, allwinners f1c200s, tinycap, tinyalsa      
+* MangoPi-R3, allwinner（全志） f1c200s, tinycap, tinyalsa      
 https://wiki.dfrobot.com.cn/_SKU_DFR0780_MangoPi-R3#target_17  
 https://github.com/tinyalsa/tinyalsa  
 https://github.com/aodzip/buildroot-tiny200/blob/master/package/tinyalsa/Config.in  
