@@ -121,10 +121,11 @@ Chapter 15 - Sound devices - SND
 search baidupan, GNU Linux Rapid Embedded Programming, Page 552.  
 
 ## Ref  
-* voice_wakeup, sndkit  
+* voice_wakeup, sndkit, dmic-test    
 https://github.com/lishaman/minispeaker/blob/master/kernel-3.0.8/tools/voice_wakeup/test_app/sndkit.c  
 https://github.com/gylzbk/x1000_kernel_v1.7/tree/master/tools/voice_wakeup   
 https://github.com/EliasKotlyar/Xiaomi-Dafang-Software/blob/master/kernel/tools/dmic-test/dmic-test.c  
+https://www.cnblogs.com/mengfanrong/p/4224783.html  
 
 * opensound.com, sndkit  
 https://github.com/EliasKotlyar/Xiaomi-Dafang-Software/tree/master/oss/tutorials/sndkit  
