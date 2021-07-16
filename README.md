@@ -114,3 +114,6 @@ https://github.com/SeeedDocument/MIC_HATv1.0_for_raspberrypi/blob/master/src/bai
 OSS (Open Sound System) and ALSA  
 SndKit  
 
+* GNU/Linux嵌入式快速编程  
+第15章 声音设备——SND  
+
