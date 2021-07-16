@@ -113,7 +113,6 @@ https://github.com/SeeedDocument/MIC_HATv1.0_for_raspberrypi/blob/master/src/bai
 4.8 实例：音频采集与回放程序的调试  
 OSS (Open Sound System) and ALSA  
 SndKit  
-https://github.com/lishaman/minispeaker/blob/master/kernel-3.0.8/tools/voice_wakeup/test_app/sndkit.c  
 
 * GNU/Linux嵌入式快速编程  
 第15章 声音设备——SND  
@@ -121,4 +120,8 @@ https://github.com/giometti/gnu_linux_rapid_embedded_programming/tree/master/cha
 Chapter 15 - Sound devices - SND  
 search baidupan, GNU Linux Rapid Embedded Programming, Page 552.  
 
+## Ref  
+* voice_wakeup, sndkit  
+https://github.com/lishaman/minispeaker/blob/master/kernel-3.0.8/tools/voice_wakeup/test_app/sndkit.c  
+https://github.com/gylzbk/x1000_kernel_v1.7/tree/master/tools/voice_wakeup   
 
