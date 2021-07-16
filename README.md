@@ -113,6 +113,7 @@ https://github.com/SeeedDocument/MIC_HATv1.0_for_raspberrypi/blob/master/src/bai
 4.8 实例：音频采集与回放程序的调试  
 OSS (Open Sound System) and ALSA  
 SndKit  
+https://github.com/lishaman/minispeaker/blob/master/kernel-3.0.8/tools/voice_wakeup/test_app/sndkit.c  
 
 * GNU/Linux嵌入式快速编程  
 第15章 声音设备——SND  
