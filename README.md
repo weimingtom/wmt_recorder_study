@@ -84,6 +84,9 @@ https://github.com/chenbd/gst-fsl-plugins
 i.MX28 Linux Multimedia Codecs  
 https://www.nxp.com/products/processors-and-microcontrollers/arm-processors/i-mx-applications-processors/i-mx28-processors/multimedia-applications-processors-low-power-high-performance-arm9-core:i.MX280  
 
+* MangoPi-R3, tinycap    
+https://wiki.dfrobot.com.cn/_SKU_DFR0780_MangoPi-R3#target_17  
+
 ## Work  
 * ESP32, Arduino IDE  
 micro_speech_v7_tf200_single_file.rar  
@@ -132,4 +135,3 @@ https://github.com/Winddoing/CodeWheel/tree/master/embedded/drivertest/dmic-test
 * opensound.com, sndkit  
 https://github.com/EliasKotlyar/Xiaomi-Dafang-Software/tree/master/oss/tutorials/sndkit  
 http://www.opensound.com  
-
