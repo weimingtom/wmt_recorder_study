@@ -98,6 +98,11 @@ https://github.com/TMRh20/TMRpcm
 Arduino+MAX9814制作简易录音机  
 https://www.jianshu.com/p/2b031a7fd2e6  
 
+* Fermion MEMS Microphone Sensor  
+放大器增益为66，当没有检测到声音时，输出电压在0.66*VCC浮动  
+https://wiki.dfrobot.com.cn/_SKU_SEN0487_Fermion_MEMS_Microphone_Sensor  
+
+
 ## Work  
 * ESP32, Arduino IDE  
 micro_speech_v7_tf200_single_file.rar  
