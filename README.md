@@ -109,6 +109,9 @@ https://github.com/gregtomasch/nRF52_24-bit-_I2S_Microphone_Audio_Recording_Util
 * haas100  
 https://github.com/alibaba/AliOS-Things/tree/master/solutions/audio_demo  
 
+* stm32l496, alios-things developerkit, i2s      
+https://github.com/alibaba/AliOS-Things/blob/rel_3.0.0/board/developerkit/audio_hal/audio.c  
+
 ## Work  
 * ESP32, Arduino IDE  
 micro_speech_v7_tf200_single_file.rar  
