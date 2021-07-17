@@ -103,6 +103,8 @@ https://www.jianshu.com/p/2b031a7fd2e6
 放大器增益为66，当没有检测到声音时，输出电压在0.66*VCC浮动  
 https://wiki.dfrobot.com.cn/_SKU_SEN0487_Fermion_MEMS_Microphone_Sensor  
 
+* nrf52, i2s  
+https://github.com/gregtomasch/nRF52_24-bit-_I2S_Microphone_Audio_Recording_Utility  
 
 ## Work  
 * ESP32, Arduino IDE  
