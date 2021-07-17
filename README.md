@@ -141,6 +141,8 @@ https://github.com/SeeedDocument/MIC_HATv1.0_for_raspberrypi/blob/master/src/bai
 4.8 实例：音频采集与回放程序的调试  
 OSS (Open Sound System) and ALSA  
 SndKit  
+https://github.com/weimingtom/embedded_linux_debugging_book_code/blob/master/source/chapter4/sndkit/SndKit.c  
+https://gitee.com/weimingtom2000/embedded_linux_debugging_book_code/blob/master/source/chapter4/sndkit/SndKit.c  
 
 * GNU/Linux嵌入式快速编程  
 第15章 声音设备——SND  
