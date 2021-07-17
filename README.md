@@ -17,6 +17,7 @@ simple_test_v3_stm32f411ce_run_success.rar
 
 * xr872  
 https://gitee.com/tutuwin/xr872_-audio/blob/master/audio_record.c  
+https://xradiotech-developer-guide.readthedocs.io/zh/latest/zh_CN/software-guide/#_4  
 
 * PC, X86 Linux, Debian, RPD2017    
 Blink_esp32_rpd2017_v2_success.tar.gz  
