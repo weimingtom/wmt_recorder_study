@@ -90,6 +90,13 @@ https://github.com/tinyalsa/tinyalsa
 https://github.com/aodzip/buildroot-tiny200/blob/master/package/tinyalsa/Config.in  
 https://github.com/mangopi-sbc/buildroot-mangopi-r/tree/master/package/tinyalsa  
 
+* Arduino Pro Mini, MAX9814  
+Make Your Own Spy Bug (Arduino Voice Recorder)  
+https://www.instructables.com/id/Make-Your-Own-Spy-Bug-Arduino-Voice-Recorder/  
+https://github.com/TMRh20/TMRpcm  
+Arduino+MAX9814制作简易录音机  
+https://www.jianshu.com/p/2b031a7fd2e6  
+
 ## Work  
 * ESP32, Arduino IDE  
 micro_speech_v7_tf200_single_file.rar  
