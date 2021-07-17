@@ -106,6 +106,9 @@ https://wiki.dfrobot.com.cn/_SKU_SEN0487_Fermion_MEMS_Microphone_Sensor
 * nrf52, i2s  
 https://github.com/gregtomasch/nRF52_24-bit-_I2S_Microphone_Audio_Recording_Utility  
 
+* haas100  
+https://github.com/alibaba/AliOS-Things/tree/master/solutions/audio_demo  
+
 ## Work  
 * ESP32, Arduino IDE  
 micro_speech_v7_tf200_single_file.rar  
@@ -129,9 +132,6 @@ https://github.com/shawkatq/voice-commands-demo
 https://github.com/weimingtom/asr_rpi3b_hello/blob/master/python/baidu_STT/Smart_fan.py  
 https://github.com/weimingtom/wmt_speech_study  
 https://github.com/SeeedDocument/MIC_HATv1.0_for_raspberrypi/blob/master/src/baidu_STT/Smart_fan.py  
-
-* haas100  
-https://github.com/alibaba/AliOS-Things/tree/master/solutions/audio_demo  
 
 ## Books  
 * 嵌入式软件调试技术  
