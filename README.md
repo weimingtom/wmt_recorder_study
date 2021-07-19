@@ -113,6 +113,9 @@ https://github.com/alibaba/AliOS-Things/tree/master/solutions/audio_demo
 * stm32l496, alios-things developerkit, i2s      
 https://github.com/alibaba/AliOS-Things/blob/rel_3.0.0/board/developerkit/audio_hal/audio.c  
 
+* 全志r329  
+https://r329.docs.allwinnertech.com/devboardstudy/r329evb5studyarecord/  
+
 ## Work  
 * ESP32, Arduino IDE  
 micro_speech_v7_tf200_single_file.rar  
