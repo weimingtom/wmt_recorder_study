@@ -44,6 +44,7 @@ https://wiki.seeedstudio.com/ReSpeaker_2_Mics_Pi_HAT_Raspberry/
 https://wiki.seeedstudio.com/cn/ReSpeaker_2_Mics_Pi_HAT/  
 
 * stm32f446  
+nucleo-f446-ei-kws_v2_sai_success.rar  
 https://github.com/smlee00/STM32-Keyword-Spotting-with-Edge-Impulse  
 
 * 新唐M480系列, M487JIDAE, NuMaker-PFM-M487开发板  
