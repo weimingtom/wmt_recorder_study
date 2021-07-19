@@ -116,6 +116,9 @@ https://github.com/alibaba/AliOS-Things/blob/rel_3.0.0/board/developerkit/audio_
 * 全志r329  
 https://r329.docs.allwinnertech.com/devboardstudy/r329evb5studyarecord/  
 
+* DOPI Hi3516EV200开发板  
+http://doc.dopi.vip/docs/first/first-1c79th4b95m28  
+
 ## Work  
 * ESP32, Arduino IDE  
 micro_speech_v7_tf200_single_file.rar  
