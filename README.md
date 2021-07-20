@@ -119,6 +119,9 @@ https://r329.docs.allwinnertech.com/devboardstudy/r329evb5studyarecord/
 * DOPI Hi3516EV200开发板  
 http://doc.dopi.vip/docs/first/first-1c79th4b95m28  
 
+* wm8960, stm32f103zet6, i2s  
+https://www.waveshare.net/wiki/WM8960_Audio_Board  
+
 ## Work  
 * ESP32, Arduino IDE  
 micro_speech_v7_tf200_single_file.rar  
