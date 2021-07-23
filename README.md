@@ -1,6 +1,10 @@
 # wmt_recorder_study
 My MCU / Embedded Linux audio recorder study  
 
+## Old, to be written      
+* https://github.com/weimingtom/wmt_ai_study/blob/master/README_TODO_002.md#tflite-work  
+* https://github.com/weimingtom/wmt_ai_study/blob/master/README_TODO_001.md#related-projects  
+ 
 ## Work  
 * ESP32, Arduino IDE  
 micro_speech_v7_tf200_single_file.rar  
