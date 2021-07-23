@@ -10,6 +10,9 @@ My MCU / Embedded Linux audio recorder study
 test_ac6_stm32h743vi_v2_dma_bug.rar  
 https://community.st.com/s/article/FAQ-DMA-is-not-working-on-STM32H7-devices  
 
+* stm32f103zet6, inmp441, i2s  
+WM8960_Record_v3_success_inmp441.rar  
+
 * stm32f411re  
 test_ac5_stm32f411re_vv15_benchmark.rar  
 mlkws_stm32f411re_v8_first_success.rar  
