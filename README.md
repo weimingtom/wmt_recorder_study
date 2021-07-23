@@ -122,6 +122,12 @@ http://doc.dopi.vip/docs/first/first-1c79th4b95m28
 * wm8960, stm32f103zet6, i2s  
 https://www.waveshare.net/wiki/WM8960_Audio_Board  
 
+* nuc98  
+https://github.com/OpenNuvoton/NUC980_Linux_Applications/blob/master/demos/alsa_audio/demo.c  
+
+* nuc97  
+https://github.com/OpenNuvoton/NUC970_Linux_Applications/blob/master/demos/alsa_audio/demo.c  
+
 ## Work  
 * ESP32, Arduino IDE  
 micro_speech_v7_tf200_single_file.rar  
