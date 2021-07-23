@@ -1,6 +1,67 @@
 # wmt_recorder_study
 My MCU / Embedded Linux audio recorder study  
 
+## Work  
+* ESP32, Arduino IDE  
+micro_speech_v7_tf200_single_file.rar  
+micro_speech_v5_tf211_lib.zip  
+https://github.com/boochow/TFLite_Micro_MicroSpeech_M5Stack  
+https://github.com/tanakamasayuki/Arduino_TensorFlowLite_ESP32  
+
+* ESP32, esp-idf  
+blink_v2_micro_speech_success.tar.gz  
+
+* Raspberry Pi Pico  
+pico-microphone_v3.rar  
+https://github.com/sandeepmistry/pico-microphone  
+
+* PC, HTML5  
+speech_v1.rar  
+https://github.com/MimusTriurus/WebExperiments  
+https://github.com/shawkatq/voice-commands-demo  
+
+* Raspberry Pi 3B, Python  
+https://github.com/weimingtom/asr_rpi3b_hello/blob/master/python/baidu_STT/Smart_fan.py  
+https://github.com/weimingtom/wmt_speech_study  
+https://github.com/SeeedDocument/MIC_HATv1.0_for_raspberrypi/blob/master/src/baidu_STT/Smart_fan.py  
+
+* stm32f103zet6, inmp441, i2s  
+WM8960_Record_v3_success_inmp441.rar  
+
+* stm32f446, inmp441, sai    
+nucleo-f446-ei-kws_v2_sai_success.rar  
+https://github.com/smlee00/STM32-Keyword-Spotting-with-Edge-Impulse  
+https://github.com/andysworkshop/usb-microphone  
+https://andybrown.me.uk/2021/01/30/usb-microphone  
+
+## Books  
+* 嵌入式软件调试技术  
+4.8 实例：音频采集与回放程序的调试  
+OSS (Open Sound System) and ALSA  
+SndKit  
+https://github.com/weimingtom/embedded_linux_debugging_book_code/blob/master/source/chapter4/sndkit/SndKit.c  
+https://gitee.com/weimingtom2000/embedded_linux_debugging_book_code/blob/master/source/chapter4/sndkit/SndKit.c  
+
+* GNU/Linux嵌入式快速编程  
+第15章 声音设备——SND  
+https://github.com/giometti/gnu_linux_rapid_embedded_programming/tree/master/chapter_15  
+Chapter 15 - Sound devices - SND  
+search baidupan, GNU Linux Rapid Embedded Programming, Page 552.  
+
+## Ref  
+* voice_wakeup, sndkit, dmic-test    
+https://github.com/lishaman/minispeaker/blob/master/kernel-3.0.8/tools/voice_wakeup/test_app/sndkit.c  
+https://github.com/gylzbk/x1000_kernel_v1.7/tree/master/tools/voice_wakeup   
+https://github.com/EliasKotlyar/Xiaomi-Dafang-Software/blob/master/kernel/tools/dmic-test/dmic-test.c  
+https://www.cnblogs.com/mengfanrong/p/4224783.html  
+https://github.com/hx1056211238/ingenic-linux-kernel3.10.14-x1000-v6.0-20170428/blob/master/tools/dmic-test/dmic-test.c  
+https://github.com/Winddoing/CodeWheel/tree/master/embedded/drivertest/dmic-test  
+https://github.com/panddio/learn/blob/master/work/test/sndkit/sndkit.c  
+
+* opensound.com, sndkit  
+https://github.com/EliasKotlyar/Xiaomi-Dafang-Software/tree/master/oss/tutorials/sndkit  
+http://www.opensound.com  
+
 ### TODO  
 * raspberry pi zero   
 (TODO) buildroot recorder  
@@ -9,9 +70,6 @@ My MCU / Embedded Linux audio recorder study
 * stm32h743vi  
 test_ac6_stm32h743vi_v2_dma_bug.rar  
 https://community.st.com/s/article/FAQ-DMA-is-not-working-on-STM32H7-devices  
-
-* stm32f103zet6, inmp441, i2s  
-WM8960_Record_v3_success_inmp441.rar  
 
 * stm32f411re  
 test_ac5_stm32f411re_vv15_benchmark.rar  
@@ -45,12 +103,6 @@ https://github.com/Lamobo/Lamobo-D1/blob/master/src/samples/record_audio/AkAudio
 * ReSpeaker 2 Mics Pi HAT  
 https://wiki.seeedstudio.com/ReSpeaker_2_Mics_Pi_HAT_Raspberry/  
 https://wiki.seeedstudio.com/cn/ReSpeaker_2_Mics_Pi_HAT/  
-
-* stm32f446  
-nucleo-f446-ei-kws_v2_sai_success.rar  
-https://github.com/smlee00/STM32-Keyword-Spotting-with-Edge-Impulse  
-https://github.com/andysworkshop/usb-microphone  
-https://andybrown.me.uk/2021/01/30/usb-microphone  
 
 * 新唐M480系列, M487JIDAE, NuMaker-PFM-M487开发板  
 https://github.com/OpenNuvoton/M480BSP/blob/master/SampleCode/StdDriver/SPII2S_PDMA_PlayRecord/main.c  
@@ -133,57 +185,5 @@ https://github.com/OpenNuvoton/NUC980_Linux_Applications/blob/master/demos/alsa_
 * nuc97  
 https://github.com/OpenNuvoton/NUC970_Linux_Applications/blob/master/demos/alsa_audio/demo.c  
 
-## Work  
-* ESP32, Arduino IDE  
-micro_speech_v7_tf200_single_file.rar  
-micro_speech_v5_tf211_lib.zip  
-https://github.com/boochow/TFLite_Micro_MicroSpeech_M5Stack  
-https://github.com/tanakamasayuki/Arduino_TensorFlowLite_ESP32  
-
-* ESP32, esp-idf  
-blink_v2_micro_speech_success.tar.gz  
-
-* Raspberry Pi Pico  
-pico-microphone_v3.rar  
-https://github.com/sandeepmistry/pico-microphone  
-
-* PC, HTML5  
-speech_v1.rar  
-https://github.com/MimusTriurus/WebExperiments  
-https://github.com/shawkatq/voice-commands-demo  
-
-* Raspberry Pi 3B, Python  
-https://github.com/weimingtom/asr_rpi3b_hello/blob/master/python/baidu_STT/Smart_fan.py  
-https://github.com/weimingtom/wmt_speech_study  
-https://github.com/SeeedDocument/MIC_HATv1.0_for_raspberrypi/blob/master/src/baidu_STT/Smart_fan.py  
-
 * ??? omega i2s  
 https://onion.io/2bt-omega-i2s-audio/  
-
-## Books  
-* 嵌入式软件调试技术  
-4.8 实例：音频采集与回放程序的调试  
-OSS (Open Sound System) and ALSA  
-SndKit  
-https://github.com/weimingtom/embedded_linux_debugging_book_code/blob/master/source/chapter4/sndkit/SndKit.c  
-https://gitee.com/weimingtom2000/embedded_linux_debugging_book_code/blob/master/source/chapter4/sndkit/SndKit.c  
-
-* GNU/Linux嵌入式快速编程  
-第15章 声音设备——SND  
-https://github.com/giometti/gnu_linux_rapid_embedded_programming/tree/master/chapter_15  
-Chapter 15 - Sound devices - SND  
-search baidupan, GNU Linux Rapid Embedded Programming, Page 552.  
-
-## Ref  
-* voice_wakeup, sndkit, dmic-test    
-https://github.com/lishaman/minispeaker/blob/master/kernel-3.0.8/tools/voice_wakeup/test_app/sndkit.c  
-https://github.com/gylzbk/x1000_kernel_v1.7/tree/master/tools/voice_wakeup   
-https://github.com/EliasKotlyar/Xiaomi-Dafang-Software/blob/master/kernel/tools/dmic-test/dmic-test.c  
-https://www.cnblogs.com/mengfanrong/p/4224783.html  
-https://github.com/hx1056211238/ingenic-linux-kernel3.10.14-x1000-v6.0-20170428/blob/master/tools/dmic-test/dmic-test.c  
-https://github.com/Winddoing/CodeWheel/tree/master/embedded/drivertest/dmic-test  
-https://github.com/panddio/learn/blob/master/work/test/sndkit/sndkit.c  
-
-* opensound.com, sndkit  
-https://github.com/EliasKotlyar/Xiaomi-Dafang-Software/tree/master/oss/tutorials/sndkit  
-http://www.opensound.com  
