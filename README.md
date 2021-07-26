@@ -40,6 +40,7 @@ https://andybrown.me.uk/2021/01/30/usb-microphone
 
 * stm32f446re, inmp441, i2s  
 usb-microphone_v5_solve_printf_block_main_thread.rar  
+https://github.com/andysworkshop/usb-microphone  
 
 ## Books  
 * 嵌入式软件调试技术  
