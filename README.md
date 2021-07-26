@@ -191,3 +191,6 @@ https://github.com/OpenNuvoton/NUC970_Linux_Applications/blob/master/demos/alsa_
 
 * ??? omega i2s  
 https://onion.io/2bt-omega-i2s-audio/  
+
+* widora mt7688 录音    
+https://widora.io/audio  
