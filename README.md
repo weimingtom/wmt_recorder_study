@@ -222,3 +222,6 @@ ART-Pi开发板, 媒体扩展板原理图
 https://gitee.com/RT-Thread-Studio-Mirror/sdk-bsp-stm32h750-realthread-artpi/blob/master/documents/board/ART-Pi_HW_V1.5/ART-Pi_SCH_V1.5_Release.pdf  
 https://gitee.com/RT-Thread-Studio-Mirror/sdk-bsp-stm32h750-realthread-artpi/blob/master/documents/board/MEDIA-IO/SCH_MEDIA-IO_V1.2.pdf  
 https://www.pianshen.com/article/18472048211/  
+
+* micro:bit v2 record  
+https://github.com/we-eff/RecordSavePlayAudioData  
