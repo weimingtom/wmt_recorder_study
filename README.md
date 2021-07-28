@@ -198,3 +198,12 @@ https://onion.io/2bt-omega-i2s-audio/
 
 * widora mt7688 录音    
 https://widora.io/audio  
+
+* 中科蓝讯AB32VG1, 耳麦回声    
+mic.rar  
+wav_player_rom.rar  
+中科蓝讯AB32VG1开发实践指南在线文档  
+https://docs.qq.com/doc/DTVVWWXpLRVl6cER2  
+https://ab32vg1-example.readthedocs.io/zh/latest/introduction.html  
+sdadc, Sigma-Delta ADC是一种目前使用最为普遍的高精度ADC结构，在精度达到20位以上的场合  
+http://www.elecfans.com/d/1294184.html  
