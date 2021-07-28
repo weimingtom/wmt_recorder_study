@@ -218,3 +218,7 @@ Art-Pi学习笔记9：如何使用art-pi的多媒体扩展板播放TF卡中的�
 https://club.rt-thread.org/ask/article/2849.html  
 Art-Pi学习笔记10：优化多媒体扩展板的音频驱动添加录音功能  
 https://club.rt-thread.org/ask/article/2872.html  
+ART-Pi开发板, 媒体扩展板原理图  
+https://gitee.com/RT-Thread-Studio-Mirror/sdk-bsp-stm32h750-realthread-artpi/blob/master/documents/board/ART-Pi_HW_V1.5/ART-Pi_SCH_V1.5_Release.pdf  
+https://gitee.com/RT-Thread-Studio-Mirror/sdk-bsp-stm32h750-realthread-artpi/blob/master/documents/board/MEDIA-IO/SCH_MEDIA-IO_V1.2.pdf  
+https://www.pianshen.com/article/18472048211/  
