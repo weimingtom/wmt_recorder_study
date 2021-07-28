@@ -211,3 +211,10 @@ https://onion.io/2bt-omega-i2s-audio/
 
 * widora mt7688 录音    
 https://widora.io/audio  
+
+* art-pi  
+https://art-pi.gitee.io/website/docs/#/tutorial/README  
+Art-Pi学习笔记9：如何使用art-pi的多媒体扩展板播放TF卡中的音乐文件  
+https://club.rt-thread.org/ask/article/2849.html  
+Art-Pi学习笔记10：优化多媒体扩展板的音频驱动添加录音功能  
+https://club.rt-thread.org/ask/article/2872.html  
