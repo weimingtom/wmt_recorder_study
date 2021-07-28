@@ -225,3 +225,6 @@ https://www.pianshen.com/article/18472048211/
 
 * micro:bit v2 record  
 https://github.com/we-eff/RecordSavePlayAudioData  
+
+* bk7252, bk7251  
+https://github.com/bekencorp/bk7251_rtt_audio_sdk/blob/master/docs/BK7251_Quick_Start_v1.0.pdf  
