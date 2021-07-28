@@ -52,6 +52,8 @@ sdadc, Sigma-Delta ADC是一种目前使用最为普遍的高精度ADC结构，�
 http://www.elecfans.com/d/1294184.html  
 https://github.com/BLUETRUM  
 https://gitee.com/bluetrum  
+RT Thread Studio快速配置AB32进行音频输出  
+https://blog.csdn.net/qq_45396672/article/details/117525626  
 
 ## Books  
 * 嵌入式软件调试技术  
