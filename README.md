@@ -69,6 +69,12 @@ https://github.com/giometti/gnu_linux_rapid_embedded_programming/tree/master/cha
 Chapter 15 - Sound devices - SND  
 search baidupan, GNU Linux Rapid Embedded Programming, Page 552.  
 
+* 基于ARM Cortex-M4的DSP系统开发  
+baidupan  
+
+* 快速傅里叶变换_算法与应用  
+baidupan  
+
 ## Ref  
 * voice_wakeup, sndkit, dmic-test    
 https://github.com/lishaman/minispeaker/blob/master/kernel-3.0.8/tools/voice_wakeup/test_app/sndkit.c  
