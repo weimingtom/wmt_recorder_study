@@ -237,3 +237,7 @@ https://github.com/bekencorp/bk7251_rtt_audio_sdk/blob/master/docs/BK7251_Quick_
 
 * python-sounddevice  
 https://github.com/spatialaudio/python-sounddevice  
+
+* beken, RT-Thread BK7252 麻雀一号  
+RT-Thread BK7252 麻雀一号开发板使用文档  
+search baidupan, 麻雀1号资料包_20210609.zip  
