@@ -241,3 +241,4 @@ https://github.com/spatialaudio/python-sounddevice
 * VAD, beken, RT-Thread BK7252 麻雀一号  
 RT-Thread BK7252 麻雀一号开发板使用文档, 15 录音与播放录音使用例程, /test/mic_record.c      
 search baidupan, 麻雀1号资料包_20210609.zip  
+see bk7221u_release\beken378\func\vad  
