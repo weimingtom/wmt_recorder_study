@@ -243,3 +243,13 @@ RT-Thread BK7252 麻雀一号开发板使用文档, 15 录音与播放录音使�
 search baidupan, 麻雀1号资料包_20210609.zip  
 see bk7221u_release\beken378\func\vad  
 https://github.com/bekencorp/bk7251_rtt_audio_sdk/blob/master/beken378/func/vad/wb_vad.c  
+
+* IDO-SBC2D06  
+Sigmastar/SSD201, 茄子nano  
+http://doc.industio.com/docs/ido-sbc2d06/ido-sbc2d06-1cttultfpk26q  
+sdk.tar.bz2  
+DMIC  
+http://doc.industio.com/docs/ssd201-sbc2d07/ssd201-sbc2d07-1cmdam5763k74  
+AMIC  
+http://doc.industio.com/docs/ssd201-sbc2d07/ssd201-sbc2d07-1cmdamnrkgk2p  
+audio_all_test_case  
