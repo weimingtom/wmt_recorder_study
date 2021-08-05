@@ -55,6 +55,10 @@ https://gitee.com/bluetrum
 RT Thread Studio快速配置AB32进行音频输出  
 https://blog.csdn.net/qq_45396672/article/details/117525626  
 
+* stm32h743, NUCLEO-H743, sai, inmp441  
+h743_inmp441_v2_stm32h743_sai_overclock.rar  
+h743_inmp441_v1_stm32h743_sai_no_overclock.rar  
+
 ## Books  
 * 嵌入式软件调试技术  
 4.8 实例：音频采集与回放程序的调试  
