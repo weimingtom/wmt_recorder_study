@@ -257,3 +257,7 @@ http://doc.industio.com/docs/ssd201-sbc2d07/ssd201-sbc2d07-1cmdam5763k74
 AMIC  
 http://doc.industio.com/docs/ssd201-sbc2d07/ssd201-sbc2d07-1cmdamnrkgk2p  
 audio_all_test_case  
+
+* P3510-2MIC, Pawpaw 木瓜电子    
+https://docs.pawpaw.ltd/download/tool_and_app_download/  
+https://docs.pawpaw.ltd/notes/  
