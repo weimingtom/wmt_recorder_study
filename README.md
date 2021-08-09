@@ -16,6 +16,7 @@ https://github.com/tanakamasayuki/Arduino_TensorFlowLite_ESP32
 blink_v2_micro_speech_success.tar.gz  
 
 * Raspberry Pi Pico  
+msys_v11_raspberry_pi_pico_v1.rar  
 pico-microphone_v3.rar  
 https://github.com/sandeepmistry/pico-microphone  
 
