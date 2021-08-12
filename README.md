@@ -286,3 +286,10 @@ https://gitee.com/cb5654_asus_sdk
 
 * 香蕉派, EAI80    
 https://github.com/BPI-SINOVOIP/BPI-EAI80-bsp  
+
+* wm8731  
+https://github.com/hughpyle/teensy-i2s  
+官网介绍, 带耳机驱动器的编解码器  
+https://www.cn.cirrus.com/products/wm8731/  
+TLV320AIC23/WM8731音频模块/8731音频/WIFI语音/声卡  
+https://item.taobao.com/item.htm?id=580141927800  
