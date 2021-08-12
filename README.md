@@ -264,3 +264,11 @@ audio_all_test_case
 * P3510-2MIC, Pawpaw 木瓜电子    
 https://docs.pawpaw.ltd/download/tool_and_app_download/  
 https://docs.pawpaw.ltd/notes/  
+
+* cb5654, and etc...  
+https://gitee.com/cb5654_sdk  
+https://gitee.com/w800_sdk  
+https://gitee.com/w800_sdk/offline_audio_w800_rgb  
+https://gitee.com/tg6101_sdk  
+https://gitee.com/cb5631_sdk  
+https://gitee.com/cb5654_asus_sdk  
