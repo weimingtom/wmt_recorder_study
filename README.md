@@ -138,6 +138,8 @@ https://wiki.seeedstudio.com/cn/ReSpeaker_2_Mics_Pi_HAT/
 
 * 新唐M480系列, M487JIDAE, NuMaker-PFM-M487开发板  
 https://github.com/OpenNuvoton/M480BSP/blob/master/SampleCode/StdDriver/SPII2S_PDMA_PlayRecord/main.c  
+http://www.nuvoton.com.cn/board/numaker-pfm-m487km/  
+https://www.nuvoton.com.cn/export/resource-files/UM_NuMaker-M487KM_User_Manual_EN_Rev1.00.pdf  
 
 * EasyARM-RT1052, 致远ZLG  
 EasyARM-RT1052-sjsc.rar  
