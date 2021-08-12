@@ -211,6 +211,7 @@ https://github.com/gregtomasch/nRF52_24-bit-_I2S_Microphone_Audio_Recording_Util
 
 * haas100  
 https://github.com/alibaba/AliOS-Things/tree/master/solutions/audio_demo  
+似乎有脚可以直接接驻极体麦克风，无需额外的音频芯片  
 
 * stm32l496, alios-things developerkit, i2s      
 https://github.com/alibaba/AliOS-Things/blob/rel_3.0.0/board/developerkit/audio_hal/audio.c  
