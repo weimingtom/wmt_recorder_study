@@ -283,3 +283,6 @@ https://gitee.com/w800_sdk/offline_audio_w800_rgb
 https://gitee.com/tg6101_sdk  
 https://gitee.com/cb5631_sdk  
 https://gitee.com/cb5654_asus_sdk  
+
+* 香蕉派, EAI80    
+https://github.com/BPI-SINOVOIP/BPI-EAI80-bsp  
