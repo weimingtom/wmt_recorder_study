@@ -97,6 +97,12 @@ http://www.opensound.com
 * 在CB5654上实现语音交互  
 https://occ.t-head.cn/doc/docs/Chapter9-E5BC80E58F91E69DBF/CB5654E5BC80E58F91E69DBF/E5AE9EE78EB0E59CA8E7BABFE99FB3E4B990E692ADE694BEE599A8.html  
 
+* SC5654板级适配指南  
+https://developer.aliyun.com/article/770173  
+
+* 智能语音终端开发板介绍 | 《无需从0开发 1天上手智能语音离在线方案》第二章  
+https://developer.aliyun.com/article/772451  
+
 ### TODO  
 * raspberry pi zero   
 (TODO) buildroot recorder  
