@@ -94,6 +94,9 @@ https://github.com/panddio/learn/blob/master/work/test/sndkit/sndkit.c
 https://github.com/EliasKotlyar/Xiaomi-Dafang-Software/tree/master/oss/tutorials/sndkit  
 http://www.opensound.com  
 
+* 在CB5654上实现语音交互  
+https://occ.t-head.cn/doc/docs/Chapter9-E5BC80E58F91E69DBF/CB5654E5BC80E58F91E69DBF/E5AE9EE78EB0E59CA8E7BABFE99FB3E4B990E692ADE694BEE599A8.html  
+
 ### TODO  
 * raspberry pi zero   
 (TODO) buildroot recorder  
