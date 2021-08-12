@@ -293,3 +293,6 @@ https://github.com/hughpyle/teensy-i2s
 https://www.cn.cirrus.com/products/wm8731/  
 TLV320AIC23/WM8731音频模块/8731音频/WIFI语音/声卡  
 https://item.taobao.com/item.htm?id=580141927800  
+
+* art-pi  
+https://club.rt-thread.org/ask/search.html?keyword=art-pi  
