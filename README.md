@@ -160,6 +160,8 @@ https://github.com/KeilChris/TensorFlow_MIMXRT1064-EVK_Microspeech/blob/master/m
 * FRDM-K66F  
 SDK_2_9_0_FRDM-K66F.zip  
 sai_edma_record_playback.zip  
+frdm-k66f sai  
+https://mcuxpresso.nxp.com/api_doc/dev/2163/a00247.html  
 
 * 芯灵思全志SIN-V3S, arm linux  
 SIN-V3s_Linux & QT用户手册_v2.0.pdf  
