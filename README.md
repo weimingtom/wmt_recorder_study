@@ -300,3 +300,6 @@ https://club.rt-thread.org/ask/search.html?keyword=art-pi
 
 * Porting ARM's DSP examples to Maxim's M4-series LP microcontrollers  
 https://github.com/MaximIntegratedTechSupport/ARM-DSP  
+
+* rda5981, 在RDA上使用mbed编译运行KWS  
+https://www.pianshen.com/article/3924524102/  
