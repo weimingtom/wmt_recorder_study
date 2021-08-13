@@ -340,3 +340,6 @@ https://club.rt-thread.org/ask/article/2599.html
 中科蓝讯AB32VG1开发实践指南在线文档  
 https://docs.qq.com/doc/DTVVWWXpLRVl6cER2  
 
+* 无涯mt7688 录音  
+https://www.hi-wooya.com/resource-view-37.html    
+http://down.hi-wooya.com/开发套件/06th_WKA-M76S/01_UserManual（用户手册）/  
