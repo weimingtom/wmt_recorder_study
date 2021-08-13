@@ -307,3 +307,6 @@ https://www.pianshen.com/article/3924524102/
 * 香蕉派D1, Lamobo-D1, 录音例子   
 https://github.com/Lamobo/Lamobo-D1/blob/master/src/samples/record_audio/main.c  
 https://github.com/Lamobo/Lamobo-D1/blob/master/src/samples/record_audio/AkAudioRecorder.c  
+
+* V3s录音 交叉编译alsa linux  
+https://blog.csdn.net/weixin_30301183/article/details/98466667   
