@@ -310,3 +310,6 @@ https://github.com/Lamobo/Lamobo-D1/blob/master/src/samples/record_audio/AkAudio
 
 * V3s录音 交叉编译alsa linux  
 https://blog.csdn.net/weixin_30301183/article/details/98466667   
+
+* A USB Microphone built with an INMP441 and an STM32  
+https://github.com/andysworkshop/usb-microphone/blob/master/Core/Src/main.c  
