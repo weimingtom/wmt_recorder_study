@@ -346,3 +346,5 @@ http://down.hi-wooya.com/开发套件/06th_WKA-M76S/01_UserManual（用户手册
 
 * 茄子派, 文档基于TOKOYAKI_DLC00V30版本SDK和IDO-SBC2D06-V1B开发板。  
 http://doc.industio.com/docs/ido-sbc2d06/ido-sbc2d06-1ctuu864a7h1r  
+第二十章 音频的配置  
+http://doc.industio.com/docs/ssd20x-system/page_20  
