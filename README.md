@@ -303,3 +303,6 @@ https://github.com/MaximIntegratedTechSupport/ARM-DSP
 
 * rda5981, 在RDA上使用mbed编译运行KWS  
 https://www.pianshen.com/article/3924524102/  
+
+* 香蕉派D1, Lamobo-D1, 录音例子   
+https://github.com/Lamobo/Lamobo-D1/blob/master/src/samples/record_audio/main.c  
