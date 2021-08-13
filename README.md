@@ -343,3 +343,6 @@ https://docs.qq.com/doc/DTVVWWXpLRVl6cER2
 * 无涯mt7688 录音  
 https://www.hi-wooya.com/resource-view-37.html    
 http://down.hi-wooya.com/开发套件/06th_WKA-M76S/01_UserManual（用户手册）/  
+
+* 茄子派, 文档基于TOKOYAKI_DLC00V30版本SDK和IDO-SBC2D06-V1B开发板。  
+http://doc.industio.com/docs/ido-sbc2d06/ido-sbc2d06-1ctuu864a7h1r  
