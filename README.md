@@ -330,4 +330,13 @@ http://www.bluetrum.com/product/ab5325b.html
 sdadc  
 https://github.com/ZhiqingLi/Sdk_Refresh/blob/master/AB53XX_SDK/app/platform/libs/api_sdadc.h  
 https://gitee.com/xiang_gang/Sdk_Refresh/blob/master/AB53XX_SDK/app/platform/libs/api_sdadc.h  
+ab5325b  
+https://github.com/nameiscn/GUI_V550/tree/c7e54a7fd9189522ac6fe8d9fefb62a283ce442a/B宝星DL-102/firmware/APP_AB5325A/platform/libs  
+http://www.bluetrum.com/product/list-2.html  
+ab32vg1  
+https://ab32vg1-example.readthedocs.io/zh/latest/introduction.html  
+https://club.rt-thread.org/ask/article/2643.html  
+https://club.rt-thread.org/ask/article/2599.html  
+中科蓝讯AB32VG1开发实践指南在线文档  
+https://docs.qq.com/doc/DTVVWWXpLRVl6cER2  
 
