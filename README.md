@@ -317,3 +317,17 @@ https://andybrown.me.uk/2021/03/13/usb-microphone/
 
 * 易百纳技术论坛，全志平台  
 http://bbs.ebaina.com/forum-137-1.html  
+
+* (TODO) STM32F37x38x SDADC （Sigma-Delta ADC）入门.pdf  
+https://download.csdn.net/download/longonly120/11441172?utm_source=iteye_new    
+Sigma-Delta ADC是一种目前使用最为普遍的高精度ADC结构，在精度达到20位以上的场合  
+http://www.elecfans.com/d/1294184.html  
+STM32F37x的SDADC使用流程（一）  
+https://blog.csdn.net/wangjin5250/article/details/95068065  
+
+* ab5325b  
+http://www.bluetrum.com/product/ab5325b.html  
+sdadc  
+https://github.com/ZhiqingLi/Sdk_Refresh/blob/master/AB53XX_SDK/app/platform/libs/api_sdadc.h  
+https://gitee.com/xiang_gang/Sdk_Refresh/blob/master/AB53XX_SDK/app/platform/libs/api_sdadc.h  
+
