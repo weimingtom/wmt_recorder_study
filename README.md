@@ -313,3 +313,4 @@ https://blog.csdn.net/weixin_30301183/article/details/98466667
 
 * A USB Microphone built with an INMP441 and an STM32  
 https://github.com/andysworkshop/usb-microphone/blob/master/Core/Src/main.c  
+https://andybrown.me.uk/2021/03/13/usb-microphone/  
