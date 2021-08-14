@@ -348,3 +348,11 @@ http://down.hi-wooya.com/开发套件/06th_WKA-M76S/01_UserManual（用户手册
 http://doc.industio.com/docs/ido-sbc2d06/ido-sbc2d06-1ctuu864a7h1r  
 第二十章 音频的配置  
 http://doc.industio.com/docs/ssd20x-system/page_20  
+
+* TTGO ESP32 0.96 OLED音乐频谱分析仪套件  
+(dead) https://github.com/LilyGO/Music-Spectrum-Analyzer  
+https://github.com/G6EJD/ESP32-8-Octave-Audio-Spectrum-Display  
+https://github.com/kosme/arduinoFFT  
+KY-038 麦克风放大器模块   
+MAX9812  
+(see taobao) KY-037  
