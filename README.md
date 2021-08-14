@@ -357,3 +357,4 @@ KY-038 麦克风放大器模块
 MAX9812  
 (see taobao) KY-037  
 https://github.com/tobozo/ESP32-Audio-Spectrum-Waveform-Display/tree/wrover-kit  
+https://gitee.com/weimingtom2000/ESP32-Muziek-Spectrum-Analyzer-Kit  
