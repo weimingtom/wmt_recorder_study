@@ -362,3 +362,17 @@ https://gitee.com/weimingtom2000/ESP32-Muziek-Spectrum-Analyzer-Kit
 * apollo-DuerOS  
 https://gitee.com/weimingtom2000/apollo-DuerOS  
 https://github.com/ApolloAuto/apollo-DuerOS  
+
+* 关于I2S及音频小结  
+https://blog.csdn.net/baiyibin0530/article/details/78728741  
+
+* 友善之臂, Matrix外设库 (基于Linux API), 声音外设    
+https://github.com/friendlyarm/matrix  
+实际上nanopi也有一个关于声音传感器（Matrix - Sound Sensor）的驱动程序，称为Matrix库，  
+这个Matrix库（又称为libfahw）类似wiringnp，但实现不同，属于Linux层面的封装，  
+例如GPIO是通过Linux文件系统和gpio驱动程序来控制电平，有兴趣可以研究一下这个库：  
+friendlyarm/matrix  
+http://wiki.friendlyarm.com/wiki/images/e/eb/Matrix_API_Reference_Manual.pdf  
+http://wiki.friendlyarm.com/wiki/index.php/Matrix_-_2%278_SPI_TFT#Download_Matrix_Source_Code  
+https://wiki.friendlyarm.com/wiki/index.php/Matrix_-_Sound_Sensor  
+
