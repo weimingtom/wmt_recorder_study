@@ -358,3 +358,7 @@ MAX9812
 (see taobao) KY-037  
 https://github.com/tobozo/ESP32-Audio-Spectrum-Waveform-Display/tree/wrover-kit  
 https://gitee.com/weimingtom2000/ESP32-Muziek-Spectrum-Analyzer-Kit  
+
+* apollo-DuerOS  
+https://gitee.com/weimingtom2000/apollo-DuerOS  
+https://github.com/ApolloAuto/apollo-DuerOS  
