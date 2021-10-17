@@ -381,3 +381,12 @@ https://aijishu.com/a/1060000000083903
 EAIDK-310  
 http://www.eaidk.com/download.php?class_id=109#txt2  
 sesarch baidupan, Demo.zip    
+
+* pmodi2s  
+https://reference.digilentinc.com/pmod/pmodi2s2/reference-manual?redirect=1  
+https://electronics.stackexchange.com/questions/525459/problems-interfacing-pmodi2s2-with-stm32h7  
+
+* sai  
+https://www.stmicroelectronics.com.cn/content/ccc/resource/training/technical/product_training/group0/11/91/8f/47/7b/0e/42/ca/STM32WB-Peripheral-Serial-Audio-Interface-SAI/files/STM32WB-Peripheral-Serial-Audio-Interface-SAI.pdf/_jcr_content/translations/en.STM32WB-Peripheral-Serial-Audio-Interface-SAI.pdf  
+https://www.cnblogs.com/armfly/p/11168383.html  
+https://github.com/keshikan/STM32H7_DMA_sample/blob/master/Src/main.c  
