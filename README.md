@@ -376,3 +376,8 @@ http://wiki.friendlyarm.com/wiki/images/e/eb/Matrix_API_Reference_Manual.pdf
 http://wiki.friendlyarm.com/wiki/index.php/Matrix_-_2%278_SPI_TFT#Download_Matrix_Source_Code  
 https://wiki.friendlyarm.com/wiki/index.php/Matrix_-_Sound_Sensor  
 
+* 基于EAIDK-310的传感器调试案例介绍（二）  
+https://aijishu.com/a/1060000000083903  
+EAIDK-310  
+http://www.eaidk.com/download.php?class_id=109#txt2  
+sesarch baidupan, Demo.zip    
