@@ -233,6 +233,8 @@ https://github.com/OpenNuvoton/NUC970_Linux_Applications/blob/master/demos/alsa_
 
 * ??? omega i2s  
 https://onion.io/2bt-omega-i2s-audio/  
+转，omega接i2s扬声器，居然可以在gain和vcc之间接一个电阻。。。  
+（作者的解释是用于降低放大器增益（灵敏度？），提高音质）  
 
 * widora mt7688 录音    
 https://widora.io/audio  
