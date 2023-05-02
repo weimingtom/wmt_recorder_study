@@ -393,5 +393,10 @@ https://www.stmicroelectronics.com.cn/content/ccc/resource/training/technical/pr
 https://www.cnblogs.com/armfly/p/11168383.html  
 https://github.com/keshikan/STM32H7_DMA_sample/blob/master/Src/main.c  
 
+* HPM6750  
+ebf_hpm6750_code_20230331.zip\audio_codec\src\WM8960.c  
+https://doc.embedfire.com/products/link/zh/latest/mcu/hpmicro/ebf_hpm6750.html  
+https://doc.embedfire.com/risc-v/hpm6750/quick_start/zh/latest/doc/chapter2/chapter2.html  
+
 ## other  
 * https://github.com/CelliesProjects/ESP32_VS1053_Stream  
