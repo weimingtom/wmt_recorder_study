@@ -398,5 +398,12 @@ ebf_hpm6750_code_20230331.zip\audio_codec\src\WM8960.c
 https://doc.embedfire.com/products/link/zh/latest/mcu/hpmicro/ebf_hpm6750.html  
 https://doc.embedfire.com/risc-v/hpm6750/quick_start/zh/latest/doc/chapter2/chapter2.html  
 
+* FR8016HA  
+我把FR8016HA开发板的声音播放跑通了，（1）烧录程序：不能用gitee最新版，  
+要用旧资料的代码（会导致屏幕花屏，但功能正常）（2）需要用特定的安卓手机  
+才能正常蓝牙传输wav文件，我用的是红米4A，安卓6，安卓是gitee上的SBC最新版  
+（3）我接的喇叭是8Ω0.5W圆形喇叭（8R），带公头杜邦线（需面包板），  
+原版没有，需要自备（4）按K1数次，然后按K2播放  
+
 ## other  
 * https://github.com/CelliesProjects/ESP32_VS1053_Stream  
