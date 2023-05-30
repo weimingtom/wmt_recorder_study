@@ -404,6 +404,7 @@ https://doc.embedfire.com/risc-v/hpm6750/quick_start/zh/latest/doc/chapter2/chap
 才能正常蓝牙传输wav文件，我用的是红米4A，安卓6，安卓是gitee上的SBC最新版  
 （3）我接的喇叭是8Ω0.5W圆形喇叭（8R），带公头杜邦线（需面包板），  
 原版没有，需要自备（4）按K1数次，然后按K2播放  
+dev_v1_use_white_hongmi_write_wav_success.rar  
 
 ## other  
 * https://github.com/CelliesProjects/ESP32_VS1053_Stream  
