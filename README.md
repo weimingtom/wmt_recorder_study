@@ -406,5 +406,8 @@ https://doc.embedfire.com/risc-v/hpm6750/quick_start/zh/latest/doc/chapter2/chap
 原版没有，需要自备（4）按K1数次，然后按K2播放  
 dev_v1_use_white_hongmi_write_wav_success.rar  
 
+* ThatProject, ESP32_MICROPHONE  
+https://github.com/0015/ThatProject/tree/master/ESP32_MICROPHONE  
+
 ## other  
 * https://github.com/CelliesProjects/ESP32_VS1053_Stream  
