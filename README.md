@@ -410,6 +410,7 @@ dev_v1_use_white_hongmi_write_wav_success.rar
 https://github.com/0015/ThatProject/tree/master/ESP32_MICROPHONE  
 
 * Speaking Numbers with a Microcontroller
+https://github.com/swharden/NumberSpeaker  
 https://swharden.com/blog/2023-08-19-speaking-microcontroller/
 https://blog.arduino.cc/2023/08/24/arduino-speaks-without-any-special-hardware/  
 
