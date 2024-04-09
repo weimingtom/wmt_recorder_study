@@ -6,6 +6,9 @@ My MCU / Embedded Linux audio recorder study
 * https://github.com/weimingtom/wmt_ai_study/blob/master/README_TODO_001.md#related-projects  
  
 ## Work  
+* Nucleo-F446 INMP441 I2S and SAI    
+https://github.com/weimingtom/stm32f446_inmp441  
+
 * ESP32, Arduino IDE  
 micro_speech_v7_tf200_single_file.rar  
 micro_speech_v5_tf211_lib.zip  
