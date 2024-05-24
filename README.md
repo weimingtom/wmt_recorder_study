@@ -138,8 +138,8 @@ https://github.com/xiayouli0122/SoundRecorder
 * VS1053, XFS5152CE, VS1003, WM8960  
 https://github.com/weimingtom/wmt_speech_study  
 
-* Linkit 7688 (MT7688), arm linux    
-https://docs.labs.mediatek.com/resource/linkit-smart-7688/zh_cn/tutorials/audio-playback-and-recording  
+* Linkit 7688 (MT7688), mips (not arm) linux    
+(dead) https://docs.labs.mediatek.com/resource/linkit-smart-7688/zh_cn/tutorials/audio-playback-and-recording  
 
 * BPI-D1 (Lamobo D1), arm linux  
 https://github.com/Lamobo/Lamobo-D1/blob/master/src/samples/record_audio/AkAudioRecorder.c  
@@ -240,7 +240,17 @@ https://onion.io/2bt-omega-i2s-audio/
 （作者的解释是用于降低放大器增益（灵敏度？），提高音质）  
 
 * widora mt7688 录音    
-https://widora.io/audio  
+(dead) https://widora.io/audio
+https://mangopi.org/audio
+```
+root@Widora:/# arecord -f cd /tmp/rec.wav
+root@Widora:/# aplay /tmp/rec.wav
+root@Widora:/# madplay /tmp/test.mp3
+root@Widora:/# alsamixer
+root@Widora:/# amixer set Headphone 85%
+root@Widora:/# amixer set 3D on
+root@Widora:/# amixer set 3D 95%
+```
 
 * art-pi媒体扩展板, stm32h750, WM8988  
 https://art-pi.gitee.io/website/docs/#/tutorial/README  
