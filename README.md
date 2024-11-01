@@ -427,7 +427,7 @@ https://github.com/swharden/NumberSpeaker
 https://swharden.com/blog/2023-08-19-speaking-microcontroller/  
 https://blog.arduino.cc/2023/08/24/arduino-speaks-without-any-special-hardware/  
 
-* tflite-micro-arduino-examples peripherals, like waveshre WM8960 rpi extend board    
+* tflite-micro-arduino-examples peripherals, like waveshare WM8960 rpi extend board    
 https://github.com/tensorflow/tflite-micro-arduino-examples/tree/main/src/peripherals　　
 
 ## other  
