@@ -430,5 +430,9 @@ https://blog.arduino.cc/2023/08/24/arduino-speaks-without-any-special-hardware/
 * tflite-micro-arduino-examples peripherals, like waveshare WM8960 rpi hat extend board   
 https://github.com/tensorflow/tflite-micro-arduino-examples/tree/main/src/peripherals  
 
+* seeedstudio esp32s3 sense
+https://wiki.seeedstudio.com/xiao_esp32s3_getting_started/  
+see bottom link, IO42/PDM_CLK, IO41/PDM_DATA    
+
 ## other  
 * https://github.com/CelliesProjects/ESP32_VS1053_Stream  
